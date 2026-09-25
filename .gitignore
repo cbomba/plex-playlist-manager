@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+config.json
+*.local.json
+token
+*.token
+Preferences.xml
+*.log
+*.bak
+*.before-*.wsgi
+.venv/
