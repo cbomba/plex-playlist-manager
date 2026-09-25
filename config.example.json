@@ -1,0 +1,7 @@
+{
+  "plex_url": "http://127.0.0.1:32400",
+  "server_name": "My Plex Server",
+  "token_file": "/etc/plex-playlist-manager/token",
+  "preferences_file": "",
+  "enable_sync": false
+}
